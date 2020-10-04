@@ -1,0 +1,27 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "react boilerplate for quick start of any react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayjha-dev/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "nodejs",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Ajay Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajayjha-dev/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ajayjha-dev/react-boilerplate#readme"
+}
